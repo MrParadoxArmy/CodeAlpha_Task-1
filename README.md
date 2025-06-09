@@ -14,7 +14,8 @@ Phishing is a type of cyber attack where attackers attempt to trick individuals 
 - Understand social engineering tactics.
 - Apply best practices to protect against phishing.
 - Explore real-world examples for awareness.
-- Test knowledge through an interactive quiz.
+- Test knowledge through an interactive quiz 
+/images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173155_0000.jpg
 
 ---
 
