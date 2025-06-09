@@ -1,3 +1,60 @@
+
+# Phishing Awareness Training
+
+## Overview
+This repository contains materials related to Phishing Awareness Training. The training is designed to educate individuals on how to recognize phishing attempts and take appropriate actions to protect themselves and their organizations.
+
+## Contents
+- **Phishing Awareness Training Document**
+  - `Phishing Awareness Training_20250609_171849_0000.pdf`: A comprehensive guide covering various aspects of phishing, including definitions, common tactics used by attackers, and preventive measures.
+
+- **Images**
+  - A folder named `images` containing visual aids that complement the training document. These images illustrate key concepts and best practices for identifying and reporting phishing attacks.
+
+### Images Included:
+1. **Best Practices to Stay Safe from Phishing** 
+   <div align="center">
+   <img src="images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173321_0000.jpg" alt="Best Practices to Stay Safe from phishing 1" width="400"/>
+   <img src="images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173327_0000.jpg" alt="Best Practices to Stay Safe from phishing 2" width="400"/>
+   </div>
+
+2. **How to Report Phishing**
+   <div align="center">
+   <img src="images/How%20to%20Report%20Phishing_20250609_173321_0000.jpg" alt="How to Report Phishing 1" width="400"/>
+   <img src="images/How%20to%20Report%20Phishing_20250609_173327_0000.jpg" alt="How to Report Phishing 2" width="400"/>
+   </div>
+
+3. **Introduction to Phishing**
+   <div align="center">
+   <img src="images/Introduction%20to%20Phishing_20250609_172725_0000.jpg" alt="Introduction to Phishing" width="400"/>
+   </div>
+
+4. **Recognizing Phishing Emails**
+   <div align="center">
+   <img src="images/Recognizing%20Phishing%20Emails_20250609_172916_0000.jpg" alt="Recognizing Phishing Emails" width="400"/>
+   </div>
+
+5. **Social Engineering Tactics**
+   <div align="center">
+   <img src="images/Social%20Engineering%20Tactics_20250609_173039_0000.jpg" alt="Social Engineering Tactics" width="400"/>
+   </div>
+
+6. **Spotting Fake Websites**
+   <div align="center">
+   <img src="images/Spotting%20Fake%20Websites_20250609_173001_0000.jpg" alt="Spotting Fake Websites" width="400"/>
+   </div>
+
+7. **Types of Phishing Attacks**
+   <div align="center">
+   <img src="images/Types%20of%20Phishing%20Attacks_20250609_172818_0000.jpg" alt="Types of Phishing Attacks" width="400"/>
+   </div>
+
+## Usage
+To access the training materials, download the PDF document and view the images above. The content can be used for personal education or shared within organizations to enhance awareness of phishing threats.
+
+## Contact
+For further inquiries or feedback regarding the Phishing Awareness Training materials, please contact [Your Name/Organization's Contact Information].
+
 # 🛡️ Phishing Awareness Training
 
 ## 📌 Overview
@@ -121,46 +178,6 @@ Phishing is a type of cyber attack where attackers attempt to trick individuals 
 
 By learning how phishing works and how to identify red flags, you’re taking the first step toward stronger online safety.
 
-# Phishing Awareness Training
 
-## Overview
-This repository contains materials related to Phishing Awareness Training. The training is designed to educate individuals on how to recognize phishing attempts and take appropriate actions to protect themselves and their organizations.
-
-## Contents
-- **Phishing Awareness Training Document**
-  - `Phishing Awareness Training_20250609_171849_0000.pdf`: A comprehensive guide covering various aspects of phishing, including definitions, common tactics used by attackers, and preventive measures.
-
-- **Images**
-  - A folder named `images` containing visual aids that complement the training document. These images illustrate key concepts and best practices for identifying and reporting phishing attacks.
-
-### Images Included:
-1. **Best Practices to Stay Safe from Phishing** 
-   - ![Best Practices to Stay Safe from phishing 1](images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173321_0000.jpg)
-   - ![Best Practices to Stay Safe from phishing 2](images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173327_0000.jpg)
-
-2. **How to Report Phishing**
-   - ![How to Report Phishing 1](images/How%20to%20Report%20Phishing_20250609_173321_0000.jpg)
-   - ![How to Report Phishing 2](images/How%20to%20Report%20Phishing_20250609_173327_0000.jpg)
-
-3. **Introduction to Phishing**
-   - ![Introduction to Phishing](images/Introduction%20to%20Phishing_20250609_172725_0000.jpg)
-
-4. **Recognizing Phishing Emails**
-   - ![Recognizing Phishing Emails](images/Recognizing%20Phishing%20Emails_20250609_172916_0000.jpg)
-
-5. **Social Engineering Tactics**
-   - ![Social Engineering Tactics](images/Social%20Engineering%20Tactics_20250609_173039_0000.jpg)
-
-6. **Spotting Fake Websites**
-   - ![Spotting Fake Websites](images/Spotting%20Fake%20Websites_20250609_173001_0000.jpg)
-
-7. **Types of Phishing Attacks**
-   - ![Types of Phishing Attacks](images/Types%20of%20Phishing%20Attacks_20250609_172818_0000.jpg)
-
-## Usage
-To access the training materials, download the PDF document and view the images above. The content can be used for personal education or shared within organizations to enhance awareness of phishing threats.
-
-## Contact
-For further inquiries or feedback regarding the Phishing Awareness Training materials, please contact [Your Name/Organization's Contact Information].
 
 
