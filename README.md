@@ -19,6 +19,3 @@ This repository contains resources for phishing awareness training. Below are th
 
 ## Spotting Fake Websites
 ![Spotting Fake Websites](images/Spotting Fake Websites_20250609_173001_0000.jpg)
-
-## Types of Phishing Attacks
-![Types of Phishing Attacks](images/Types of Phishing Attacks_20250609_172818_0000.jpg)
