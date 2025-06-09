@@ -1,4 +1,5 @@
 
+# 
 # Phishing Awareness Training
 
 ## Overview
@@ -14,8 +15,7 @@ This repository contains materials related to Phishing Awareness Training. The t
 ### Images Included:
 1. **Best Practices to Stay Safe from Phishing** 
    <div align="center">
-   <img src="images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173321_0000.jpg" alt="Best Practices to Stay Safe from phishing 1" width="400"/>
-   <img src="images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173327_0000.jpg" alt="Best Practices to Stay Safe from phishing 2" width="400"/>
+   <img src="https://github.com/MrParadoxArmy/CodeAlpha_Task-1/raw/main/images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_173155_0000.jpg" alt="Best Practices to Stay Safe from phishing" width="400"/>
    </div>
 
 2. **How to Report Phishing**
@@ -55,7 +55,6 @@ To access the training materials, download the PDF document and view the images 
 ## Contact
 For further inquiries or feedback regarding the Phishing Awareness Training materials, please contact [Your Name/Organization's Contact Information].
 
-# 🛡️ Phishing Awareness Training
 
 ## 📌 Overview
 
