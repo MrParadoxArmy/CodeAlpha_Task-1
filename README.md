@@ -1,42 +1,87 @@
-Phishing Awareness and Prevention
-This repository contains a collection of resources and images related to phishing awareness and prevention.
+Phishing Awareness Training
+Slide 1: Introduction to Phishing
+- *Title:* Phishing Awareness Training
+- *Subtitle:* Protecting Yourself from Online Scams
+- *Image:* A relevant image, such as a fishing hook or a warning sign
 
-Table of Contents
-1. #introduction-to-phishing
-2. #types-of-phishing-attacks
-3. #recognizing-phishing-emails
-4. #spotting-fake-websites
-5. #social-engineering-tactics
-6. #how-to-report-phishing
-7. #best-practices-to-stay-safe-from-phishing
+Phishing is a type of cyber attack where attackers try to trick you into revealing sensitive information, such as login credentials or financial information. In this training, we'll cover how to recognize phishing emails and fake websites, and provide best practices to avoid falling victim.
 
-Introduction to Phishing
-![Introduction to Phishing](images/Introduction%20to% of phishing attacks involve emails, making it essential to understand the basics of phishing and how to identify potential threats.
+Slide 2: Types of Phishing Attacks
+- *Title:* Types of Phishing Attacks
+- *Bullet points:*
+    - Email phishing
+    - Spear phishing
+    - Whaling
+    - Smishing (SMS phishing)
+    - Vishing (voice phishing)
 
-Types of Phishing Attacks
-!images/Types%20of%20Phishing%20Attacks_20250609_172818_0000.jpg
-Phishing attacks come in various forms, including email phishing, spear phishing, and whaling. Understanding the different types of phishing attacks can help you better protect yourself.
+Phishing attacks can take many forms, including emails, texts, and phone calls. Each type of attack has its own unique characteristics, but they all aim to trick you into revealing sensitive information.
 
-Recognizing Phishing Emails
-!images/Recognizing%20Phishing%20Emails_20250609_172916_0000.jpg
-Phishing emails often contain suspicious links, attachments, or spelling mistakes. Learn how to identify these red flags and avoid falling victim to phishing scams.
+Slide 3: Recognizing Phishing Emails
+- *Title:* Recognizing Phishing Emails
+- *Bullet points:*
+    - Suspicious sender email address
+    - Generic greeting or lack of personalization
+    - Spelling and grammar mistakes
+    - Urgent or threatening language
+    - Suspicious links or attachments
 
-Spotting Fake Websites
-!images/Spotting%20Fake%20Websites_20250609_173001_0000.jpg
-Fake websites can be difficult to spot, but there are certain characteristics to look out for, such as misspelled domain names or poor design.
+Phishing emails often contain red flags that can help you identify them as scams. Be cautious of emails that use urgent or threatening language, or those that ask you to reveal sensitive information.
 
-Social Engineering Tactics
-!images/Social%20Engineering%20Tactics_20250609_173039_0000.jpg
-Social engineering tactics are used to manipulate individuals into divulging sensitive information. Be aware of these tactics to protect yourself.
+Slide 4: Fake Websites
+- *Title:* Fake Websites
+- *Bullet points:*
+    - Similar domain name or URL
+    - Lack of HTTPS encryption
+    - Poor design or grammar mistakes
+    - Suspicious pop-ups or ads
 
-How to Report Phishing
-!images/How%20to%20Report%20Phishing_20250609_173321_0000.jpg
-!images/How%20to%20Report%20Phishing_20250609_173327_0000.jpg
-If you suspect you've been a victim of phishing, it's essential to report it to the relevant authorities.
+Fake websites can be difficult to spot, but there are certain characteristics to look out for. Make sure to check the URL and look for HTTPS encryption before entering sensitive information.
 
-Best Practices to Stay Safe from Phishing
-!images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_17...
-!images/Best%20Practices%20to%20Stay%20Safe%20from%20phishing_20250609_17...
-By following best practices, such as being cautious with links and attachments, you can significantly reduce the risk of falling victim to phishing attacks.
+Slide 5: Social Engineering Tactics
+- *Title:* Social Engineering Tactics
+- *Bullet points:*
+    - Pretexting (creating a fake scenario)
+    - Baiting (offering something in exchange for information)
+    - Quid pro quo (offering a service or benefit in exchange for information)
 
-This README file provides an overview of the resources available in this repository, including images and information on phishing awareness and prevention.
+Social engineering tactics are used to manipulate individuals into revealing sensitive information. Be aware of these tactics and be cautious of unsolicited requests for information.
+
+Slide 6: Best Practices
+- *Title:* Best Practices
+- *Bullet points:*
+    - Verify sender email addresses and URLs
+    - Use strong passwords and two-factor authentication
+    - Keep software and systems up-to-date
+    - Use antivirus software and a firewall
+    - Be cautious of unsolicited requests for information
+
+By following best practices, you can significantly reduce the risk of falling victim to phishing attacks.
+
+Slide 7: Real-World Examples
+- *Title:* Real-World Examples
+- *Images or case studies:* Examples of phishing emails or fake websites
+
+Let's look at some real-world examples of phishing attacks. These examples illustrate the tactics used by attackers and how to spot them.
+
+Slide 8: Interactive Quiz
+- *Title:* Interactive Quiz
+- *Question:* What is the best way to protect yourself from phishing attacks?
+- *Options:*
+    - Using strong passwords
+    - Verifying sender email addresses and URLs
+    - Keeping software and systems up-to-date
+    - All of the above
+
+Test your knowledge with our interactive quiz! The answer is "All of the above".
+
+Slide 9: Conclusion
+- *Title:* Conclusion
+- *Summary:* Phishing attacks are a serious threat, but by being aware of the tactics used by attackers and following best practices, you can protect yourself.
+
+By completing this training, you've taken the first step in protecting yourself from phishing attacks. Remember to stay vigilant and be cautious of unsolicited requests for information.
+
+Additional Resources
+- *Links:* Links to additional resources, such as phishing awareness websites or online training modules
+
+For more information on phishing awareness and prevention, check out these additional resources.
