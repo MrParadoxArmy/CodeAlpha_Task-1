@@ -1,100 +1,83 @@
-# 🛡️ Phishing Awareness Training
-
-This repository hosts a comprehensive training module on phishing awareness, designed for presentation or e‑learning formats. It includes:
-
-1. **Introduction to Phishing**  
-2. **Types of Phishing Attacks**  
-3. **How to Recognize Phishing Emails**  
-4. **Spotting Fake Websites**  
-5. **Social Engineering Tactics**  
-6. **Best Practices & Safety Tips**  
-7. **Real-World Examples**  
-8. **Interactive Quiz**  
-9. **How to Report Phishing**  
-10. **Summary & Key Takeaways**  
-11. **Resources**
 
 ---
 
 ## 📸 Visual Guide
 
-### Introduction to Phishing  
-![Introduction to Phishing](./images/1000398889.jpg)  
-An infographic outlining what phishing is, with visual cues like fake emails, smishing, and fake websites.
+Each image complements a topic covered in the training. These can be used in presentations, training modules, or online awareness campaigns.
 
-### Types of Phishing Attacks  
-![Types of Phishing Attacks](./images/1000398890.jpg)  
-Illustrates spear phishing, whaling, clone phishing, smishing, and more.
-
-### How to Recognize Phishing Emails  
-![Recognizing Phishing Emails](./images/1000398891.jpg)  
-Tips on sending address, subject lines, and common email red flags.
-
-### Spotting Fake Websites  
-![Unsecured Connection Warning](./images/1000398892.jpg)  
-Example of a browser alert for an unsecure, fake site.
-
-### Social Engineering Tactics  
-![Social Engineering Overview](./images/1000398893.jpg)  
-Visual spread of manipulation techniques like impersonation, authority, and emotional appeal.
-
-### Best Practices  
-![Best Practices for Phishing Safety](./images/1000398894.jpg)  
-Checklist-style guide: verify senders, avoid suspicious links, report attacks.
-
-### Phishing Scams Summary  
-![Phishing Scams Summary](./images/1000398895.jpg)  
-Overview of phishing scam tactics and prevention strategies.
-
-### How to Report Phishing  
-![Reporting Phishing Attempts](./images/1000398897.jpg)  
-Instructions on steps, escalation paths, and internal reporting.
+| Topic | Image Preview |
+|-------|---------------|
+| Introduction to Phishing | `images/1000398889.jpg` |
+| Types of Phishing Attacks | `images/1000398890.jpg` |
+| Recognizing Phishing Emails | `images/1000398891.jpg` |
+| Spotting Fake Websites | `images/1000398892.jpg` |
+| Social Engineering Tactics | `images/1000398893.jpg` |
+| Best Practices | `images/1000398894.jpg` |
+| Phishing Scams Summary | `images/1000398895.jpg` |
+| How to Report Phishing | `images/1000398897.jpg` |
+| Training Summary | `images/1000398898.jpg` |
 
 ---
 
-## 📚 Module Content Overview
+## 🧠 Module Overview
 
-### 1. Introduction to Phishing  
-- Definition, channels (email, SMS, phone, fake sites)  
-- Real-world impact: identity theft, financial loss
+### 1. What is Phishing?
+- Phishing is a cyber attack that attempts to steal sensitive information through deceptive emails, websites, or messages.
 
-### 2. Types of Phishing Attacks  
-- Email phishing, spear phishing, smishing, vishing, pharming  
-- Detailed examples and visuals from images
+### 2. Types of Phishing Attacks
+- **Spear Phishing** – Targeted attacks toward specific individuals.
+- **Whaling** – Aimed at executives.
+- **Smishing & Vishing** – Attacks via SMS and voice calls.
+- **Clone Phishing** – Duplicated legitimate emails with malicious content.
 
-### 3. How to Recognize Phishing Emails  
-- Check sender address, subject line, tone, spelling, urgency  
-- Hover over links to inspect them before clicking
+### 3. Recognizing Phishing Emails
+- Look for urgent messages, misspelled addresses, fake links, or unexpected attachments.
 
-### 4. Spotting Fake Websites  
-- Ensure “HTTPS” and correct domain  
-- Identify visual quality issues or fake login prompts
+### 4. Spotting Fake Websites
+- Check for “HTTPS”, incorrect spellings in URLs, or suspicious login prompts.
 
-### 5. Social Engineering Tactics  
-- Impersonation, emotional manipulation, authority abuse, urgency
+### 5. Social Engineering Techniques
+- Attackers manipulate emotions like fear, trust, or urgency to deceive users.
 
-### 6. Best Practices & Safety Tips  
-- Use MFA, update software, verify independently, never share sensitive info
+### 6. Best Practices
+- Enable two-factor authentication (2FA)
+- Don’t click suspicious links
+- Keep software updated
+- Report all phishing attempts
 
-### 7. Real‑World Examples  
-- Google Docs scam, Netflix phishing, COVID‑19 aid scams
+### 7. Real-World Examples
+- Fake job offers, bogus tax refunds, or impersonated company emails.
 
-### 8. Interactive Quiz  
-- Multiple‐choice quizzes interspersed to check learner understanding
-
-### 9. How to Report Phishing  
-- Use Outlook/Gmail report functions  
-- In India: [cybercrime.gov.in](https://cybercrime.gov.in) or `reportphishing@apwg.org`
-
-### 10. Summary & Key Takeaways  
-- Think before clicking, report suspicious activity, stay informed
-
-### 11. Resources  
-- Google’s Phishing Quiz  
-- CISA guidelines  
-- National CERT videos
+### 8. Reporting Phishing
+- Use Gmail/Outlook “Report Phishing” option.
+- In India: Report at [https://cybercrime.gov.in](https://cybercrime.gov.in)
 
 ---
 
-## 📂 Repository Structure
+## 📊 Usage
 
+- Open `Phishing Awareness Training_20250609_171849_0000.pptx` for the presentation.
+- Use `images/` for references, embedding into the presentation or LMS.
+- Follow along with this README as a teaching aid or handout.
+
+---
+
+## ✅ Learning Goals
+
+By the end of this training, learners will:
+- Understand various phishing tactics.
+- Detect red flags in emails and websites.
+- Apply best practices to prevent attacks.
+- Know how and where to report phishing incidents.
+
+---
+
+## 📚 Resources
+
+- [Google Phishing Quiz](https://phishingquiz.withgoogle.com/)
+- [Cybercrime Portal (India)](https://cybercrime.gov.in)
+- [US-CERT Phishing Guide](https://www.us-cert.gov/report-phishing)
+
+---
+
+Stay informed. Stay protected.
