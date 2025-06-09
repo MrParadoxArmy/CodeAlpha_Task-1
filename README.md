@@ -49,11 +49,6 @@ This repository contains materials related to Phishing Awareness Training. The t
    <img src="images/Types%20of%20Phishing%20Attacks_20250609_172818_0000.jpg" alt="Types of Phishing Attacks" width="400"/>
    </div>
 
-## Usage
-To access the training materials, download the PDF document and view the images above. The content can be used for personal education or shared within organizations to enhance awareness of phishing threats.
-
-## Contact
-For further inquiries or feedback regarding the Phishing Awareness Training materials, please contact [Your Name/Organization's Contact Information].
 
 
 ## 📌 Overview
@@ -162,12 +157,7 @@ Phishing is a type of cyber attack where attackers attempt to trick individuals 
 
 ---
 
-## 📚 Additional Resources
 
-- [Google Phishing Awareness](https://safety.google/security/security-tips/)
-- [StaySafeOnline (NCA)](https://staysafeonline.org)
-- [Phishing.org Guide](https://www.phishing.org/what-is-phishing)
-- [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/phishing)
 
 ---
 
